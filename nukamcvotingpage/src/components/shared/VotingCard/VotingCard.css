@@ -5,9 +5,46 @@
     /*width: 500px;*/
     /*margin: auto;*/
     /*border-radius: 45px;*/
-    box-shadow: 6px 5px 8px 2px #222233;
+    box-shadow: 6px 5px 8px 2px #222222;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .Card-Image {
-    border-radius: 20px;
+    border-radius: 10px;
+}
+
+.Card-Header {
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    height: 50px;
+    background: #312f2f;
+    color: whitesmoke;
+    /*border-top-right-radius: 25px;*/
+    /*border-top-left-radius: 10px;*/
+    font-family: Ubuntu;
+    font-size: xx-large;
+}
+
+.Title-Icon {
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: initial;
+    text-align: right;
+}
+
+.Card-Title {
+    text-align: start;
+    font-family: "Ubuntu Light";
+    font-style: oblique;
+    font-size: large;
+}
+
+.Card-Text {
+    text-align: center;
+    font-family: "Ubuntu Mono";
+    font-style: initial;
+    font-size: medium;
 }
