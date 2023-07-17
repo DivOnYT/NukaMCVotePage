@@ -1,6 +1,5 @@
 import React, {Component, useEffect} from 'react';
 import './VotingCard.css';
-import Card from 'react-bootstrap/Card';
 import Confetti from 'react-confetti';
 import voting from './voting.png';
 
