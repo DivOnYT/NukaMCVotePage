@@ -18,7 +18,7 @@ const VotingCard = (data) => {
         }}>
           <img className={'Card-Image'} src={voteImage}></img>
           {isVoting &&
-            <Confetti recycle={!isVoting} numberOfPieces={500} onAnimationStart={() => setIsVoting(false)}/>
+            <Confetti recycle={!isVoting} numberOfPieces={500} onCompositionEnd={() => setIsVoting(false)}/>
           }
         </a>
       </div>
