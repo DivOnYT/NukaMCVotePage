@@ -42,9 +42,10 @@
 }
 
 .Card-Header {
+  margin-left: 75px;
+  margin-right: 75px;
   text-align: center;
   padding: 15px;
-  font-size: 20px;
   height: 50px;
   background: #312f2f;
   color: whitesmoke;
@@ -81,6 +82,8 @@ hr {
 }
 
 .VotingCard {
+  margin-left: 75px;
+  margin-right: 75px;
   /*background: #24272b;*/
   background: #222222;
 }
