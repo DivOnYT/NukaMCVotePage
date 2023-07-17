@@ -26,6 +26,10 @@ class App extends Component {
           <VotingCard title={"C'est Moi"} description={'Comment Ca va?'} voteLink={"https://best-minecraft-servers.co/server-nukamc.17954/vote"} voteImage={"https://best-minecraft-servers.co/votebanner-17954-4D5988.png"}/>
           <hr></hr>
         </div>
+        <h3 className={'Credits-Label'}>Made By div_yt. Join us in <a href={'https://www.discord.gg/nukamc'}>
+             NukaMC Discord Server
+          </a>
+        </h3>
       </div>
     );
   }

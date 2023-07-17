@@ -87,3 +87,13 @@ hr {
   /*background: #24272b;*/
   background: #222222;
 }
+
+.Credits-Label {
+  text-align: right;
+  margin-right: 50px;
+  color: #312f2f;
+}
+
+a {
+  color: #000;
+}
