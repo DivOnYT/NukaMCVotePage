@@ -2,10 +2,10 @@
     background-color: #222;
     color: white;
     padding: 20px;
-    width: 500px;
-    border-radius: 45px;
+    /*width: 500px;*/
+    /*margin: auto;*/
+    /*border-radius: 45px;*/
     box-shadow: 6px 5px 8px 2px #222233;
-    margin: auto;
 }
 
 .Card-Image {
